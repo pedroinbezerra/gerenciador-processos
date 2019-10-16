@@ -1,0 +1,10 @@
+C:\Users\pedro\source\repos\Gerenciador de processos\bin\Debug\Gerenciador de processos.exe.config
+C:\Users\pedro\source\repos\Gerenciador de processos\bin\Debug\Gerenciador de processos.exe
+C:\Users\pedro\source\repos\Gerenciador de processos\bin\Debug\Gerenciador de processos.pdb
+C:\Users\pedro\source\repos\Gerenciador de processos\obj\Debug\Gerenciador_de_processos.Properties.Resources.resources
+C:\Users\pedro\source\repos\Gerenciador de processos\obj\Debug\Gerenciador de processos.csproj.GenerateResource.cache
+C:\Users\pedro\source\repos\Gerenciador de processos\obj\Debug\Gerenciador de processos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Gerenciador de processos\obj\Debug\Gerenciador de processos.exe
+C:\Users\pedro\source\repos\Gerenciador de processos\obj\Debug\Gerenciador de processos.pdb
+C:\Users\pedro\source\repos\Gerenciador de processos\obj\Debug\Gerenciador_de_processos.Form1.resources
+C:\Users\pedro\source\repos\Gerenciador de Processos\obj\Debug\Gerenciador de processos.csprojAssemblyReference.cache
